@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">AndroidMaster</string>
+
+    <!--IMC APP-->
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="age">Age</string>
+    <string name="calculate">Calculate</string>
+    <string name="physical_activity">Physical Activity</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="hard">High</string>
+    <string name="result">Results</string>
+    <string name="recalculate">Back to Calculation</string>
+    <string name="error">Error</string>
+    <string name="title_low_weight">Underweight</string>
+    <string name="title_normal_weight">Normal Weight</string>
+    <string name="title_over_weight">Overweight</string>
+    <string name="title_obesity">Obesity</string>
+    <string name="descrip_low_weight">Your weight is below normal parameters in relation to your height. Your daily requirements are: </string>
+    <string name="descrip_normal_weight">Your weight is within the normal range for your height. Your daily requirements are: </string>
+    <string name="descrip_over_weight">Your weight is above the normal parameters in relation to your height. Your daily requirements are: </string>
+    <string name="descrip_obesity">Your weight is well above normal parameters in relation to your height. Your daily requirements are: </string>
+    <string name="title_water_for_day">Milliliters of Water</string>
+    <string name="title_calories_for_day">Caloric Requirements</string>
+
+    <!--Account Organizer App-->
+
+    <string name="do_title">Account Organizer</string>
+    <string name="welcome_title">Please, enter the details and the action to be performed</string>
+    <string name="platform">Web / App</string>
+    <string name="email">Email</string>
+    <string name="User">User</string>
+    <string name="id">ID Code</string>
+    <string name="btn_insert">Insert</string>
+    <string name="btn_viewAll">View All</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+
+    <!--Tasks Organizer App-->
+    
+    <string name="organizer_title">Hi, Welcome!</string>
+    <string name="organizer_categories">Categories</string>
+    <string name="organizer_task">Assignments</string>
+    <string name="dialog_add_task">Add Assignments</string>
+    <string name="or_business">Business</string>
+    <string name="or_personal">Personal</string>
+    <string name="or_other">Others</string>
+    <string name="add_task">Add Task</string>
+
+
+</resources>
