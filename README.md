@@ -24,4 +24,10 @@ With this application we can efficiently organize each pending task to perform a
 
 *************************************************README!***************************************************
 
-These applications were developed by Mauricio Aldana -Montevideo / Uruguay-.
+To download the apk file go to the following path: 
+
+AndroidMaster/app/release/3Apps.apk
+
+---------------------------------------------------------------------------------------------------------------
+
+These applications were developed by Mauricio Aldana -Montevideo / Uruguay-
